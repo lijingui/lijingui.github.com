@@ -4,7 +4,7 @@ paginate:         6
 permalink: /:year/:month/:title.html
 
 title:            "Li Jingui's Workspace"
-url:              http://lijingui.ownlinux.net
+url:              http://lijingui.github.com
 feed:             /atom.xml
 author:
     name:         Jingui Li
