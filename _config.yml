@@ -1,0 +1,21 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         6
+permalink: /:year/:month/:title.html
+
+title:            "Li Jingui's Workspace"
+url:              http://lijingui.ownlinux.net
+feed:             /atom.xml
+author:
+    name:         Jingui Li
+    email:        nourlcn # gmail.com
+    skype:        
+
+description:      "工作内容整理"
+about: 			 		  ""
+follow:
+    github:       https://github.com/nourlcn
+    twitter:      https://twitter.com/nourlcn
+style: 			  /css/style.css
+blogName: 		  Li Jingui's Workspace
+blogDesc: 		  大数据、信息化、电子政务.
