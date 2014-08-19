@@ -4,11 +4,11 @@ paginate:         6
 permalink: /:year/:month/:title.html
 
 title:            "Li Jingui's Workspace"
-url:              http://lijingui.ownlinux.net
+url:              http://lijingui.github.com
 feed:             /atom.xml
 author:
     name:         Jingui Li
-    email:        nourlcn # gmail.com
+    email:        buaa.lijingui@gmail.com
     skype:        
 
 description:      "工作内容整理"
